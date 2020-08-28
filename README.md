@@ -1,6 +1,6 @@
 # Developing Historical Networks in CBDB JHNR
  
-by Michael A. Fuller and Wang Hongsu
+by Michael A. Fuller and Hongsu Wang
 
 JOURNAL OF HISTORICAL NETWORK RESEARCH X (202X) XX-XX 
 
